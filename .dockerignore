@@ -1,0 +1,6 @@
+node_modules
+.idea
+config/local.json
+.gitignore
+CHANGELOG.md
+bitbucket-pipelines.yml

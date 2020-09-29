@@ -1,0 +1,8 @@
+{
+  "slack": {
+    "botToken": "SLACK_BOT_TOKEN",
+    "clientSigningSecret": "SLACK_SIGNING_SECRET"
+  }
+}
+
+
